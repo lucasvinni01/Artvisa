@@ -1,0 +1,45 @@
+@import "../../styles/var";
+
+.tags {
+  width: 65vw;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: $cor-de-texto;
+  font-family: $fonte-texto;
+  font-size: 16px;
+
+  @media screen and (max-width: 768px) {
+    width: 75vh; 
+  }
+
+  p {
+    font-size: 1.25rem;
+
+    @media screen and (max-width: 768px) {
+      display: none; 
+    }
+  }
+
+  &__lista {
+    list-style: none;
+    width: 450px;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+
+    li {
+      background-color: $azul-escuro;
+      padding: 10px 14px;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+
+    li:hover {
+      background-color: $roxo;
+      transform: scale(1.1);
+      transition: 0.18s;
+      box-shadow: 2px 2px 5px $sombra;
+    }
+  }
+}

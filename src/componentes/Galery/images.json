@@ -1,0 +1,382 @@
+
+[
+    {
+      "titulo": "The Lonely Whale",
+      "creditos": "Alura Space",
+      "imagem": "/assets/imagens/galeria/imagem (1).png",
+      "id": "1",
+      "tag": "I.A arte"
+    },
+    {
+        "titulo": "Cybercop",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (2).png",
+        "id": "2",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Fantasy character 1",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (3).png",
+        "id": "3",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Fantasy character 2",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (4).png",
+        "id": "4",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Into the metaverse",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (5).png",
+        "id": "5",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Back to future",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (6).png",
+        "id": "6",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Nome da Foto",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (7).png",
+        "id": "7",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Fantasy character 3",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (8).png",
+        "id": "8",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Fantasy character 4",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (9).png",
+        "id": "9",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Recife by Monet",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (10).png",
+        "id": "10",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Into the metaverse 2",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (11).png",
+        "id": "11",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Fantasy Queen",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (12).png",
+        "id": "12",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Horror Scenario",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (13).png",
+        "id": "13",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Horror Scenario 2",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (14).png",
+        "id": "14",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Horror Scenario 3",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (15).png",
+        "id": "15",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "New Times Coming",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (16).png",
+        "id": "16",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "New Times Coming 2",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (17).png",
+        "id": "17",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "New Times Coming 3",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (18).png",
+        "id": "18",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Action scenario",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (19).png",
+        "id": "19",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Action scenario 2",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (20).png",
+        "id": "20",
+        "tag": "I.A arte"
+      },
+      {
+        "titulo": "Action scenario 3",
+        "creditos": "Alura Space",
+        "imagem": "/assets/imagens/galeria/imagem (21).png",
+        "id": "21",
+        "tag": "I.A arte"
+      },
+      {
+          "titulo": "It could be directed by Tarantino",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (22).png",
+          "id": "22",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (23).png",
+          "id": "23",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (24).png",
+          "id": "24",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (25).png",
+          "id": "25",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (26).png",
+          "id": "26",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (27).png",
+          "id": "27",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (28).png",
+          "id": "28",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (29).png",
+          "id": "29",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (30).png",
+          "id": "30",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (31).png",
+          "id": "31",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (32).png",
+          "id": "32",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (33).png",
+          "id": "33",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (34).png",
+          "id": "34",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (35).png",
+          "id": "35",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (36).png",
+          "id": "36",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (37).png",
+          "id": "37",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (38).png",
+          "id": "38",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (39).png",
+          "id": "39",
+          "tag": "I.A arte"
+        },
+        {
+          "titulo": "Nome da Foto",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (40).png",
+          "id": "40",
+          "tag": "I.A arte"
+        },
+        {
+            "titulo": "Nome da Foto",
+            "creditos": "Alura Space",
+            "imagem": "/assets/imagens/galeria/imagem (41).png",
+            "id": "41",
+            "tag": "I.A arte"
+        },
+        {
+            "titulo": "Nome da Foto",
+            "creditos": "Alura Space",
+            "imagem": "/assets/imagens/galeria/imagem (42).png",
+            "id": "42",
+            "tag": "I.A arte"
+        },
+        {
+            "titulo": "Nome da Foto",
+            "creditos": "Alura Space",
+            "imagem": "/assets/imagens/galeria/imagem (43).png",
+            "id": "43",
+            "tag": "I.A arte"
+        },
+        {
+            "titulo": "Nome da Foto",
+            "creditos": "Alura Space",
+            "imagem": "/assets/imagens/galeria/imagem (44).png",
+            "id": "44",
+            "tag": "I.A arte"
+        },
+        {
+            "titulo": "The little prince",
+            "creditos": "Alura Space",
+            "imagem": "/assets/imagens/galeria/imagem (45).png",
+            "id": "45",
+            "tag": "I.A arte"
+        },
+        {
+            "titulo": "React Fitness Studio",
+            "creditos": "Alura Space",
+            "imagem": "/assets/imagens/galeria/imagem (46).png",
+            "id": "46",
+            "tag": "Logos"
+        },
+        {
+            "titulo": "Artvisa logo",
+            "creditos": "Alura Space",
+            "imagem": "/assets/imagens/galeria/imagem (47).png",
+            "id": "47",
+            "tag": "Logos"
+        },
+        {
+          "titulo": "Logo eu (on)",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (48).png",
+          "id": "48",
+          "tag": "Logos"
+        },
+        {
+          "titulo": "Logo eu (off)",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (49).png",
+          "id": "49",
+          "tag": "Logos"
+        },
+        {
+          "titulo": "Medusa",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (50).png",
+          "id": "50",
+          "tag": "Logos"
+        },
+        {
+          "titulo": "R.A.T",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (51).png",
+          "id": "51",
+          "tag": "Logos"
+        },
+        {
+          "titulo": "Bem Diva",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (52).png",
+          "id": "52",
+          "tag": "Logos"
+        },
+        {
+          "titulo": "Bem Diva bag mockup",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (53).jpg",
+          "id": "53",
+          "tag": "Publicidade"
+        },
+        {
+          "titulo": "Madonna by Michelangelo",
+          "creditos": "Alura Space",
+          "imagem": "/assets/imagens/galeria/imagem (54).png",
+          "id": "54",
+          "tag": "I.A arte"
+        }
+      ]
+  

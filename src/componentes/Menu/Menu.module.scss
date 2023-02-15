@@ -1,0 +1,47 @@
+@import "../../styles/var";
+
+.menu {
+    width: 18%;
+  
+    &__lista {
+      padding-left: 0.5rem;
+      margin: 0;
+      height: 276px;
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      justify-content: space-around;
+    }
+  
+    &__item {
+      display: flex;
+      justify-content: flex-start;
+      align-items: center;
+  
+      &:first-child {
+        a {
+          font-weight: 700;
+          color: $lilas;
+          font-family: $fonte;
+        }
+      }
+    }
+  
+    img {
+      margin-right: 0.5rem;
+      width: 25px;
+      height: 25px;
+      cursor: pointer;
+    }
+  
+    a {
+      text-decoration: none;
+      font-size: 1.125rem;
+      color: $cor-de-texto;
+      font-family: $fonte;
+    }
+  
+    @media screen and (max-width: 768px) {
+      margin: auto;
+    }
+  }
